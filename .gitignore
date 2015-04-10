@@ -18,3 +18,13 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret

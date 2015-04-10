@@ -1,5 +1,5 @@
 def full_title(page_title)
-  base_title = "Base App 2"
+  base_title = "HIE Current Data"
     if page_title.empty?
       base_title
     else

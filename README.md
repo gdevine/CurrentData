@@ -1,3 +1,3 @@
-# Base App 2
+# HIE Current Data
 
-A Ruby on Rails 4.2 skeleton application running on Ruby 2.2.
+Website for showing HIE current Data
