@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>    
+		<title>HIE Current Data</title>
+		<%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
+    <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    <meta name="description" content="Current Data Views at Hawkesbury Institute for the Environment" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">  
+    <%= csrf_meta_tags %>
+    <%= render 'layouts/shim' %>		
+	</head>
+	
+	<body>
+    <div class="container"> 
+    
+			    <!-- Header Bar -->
+			    <%= render 'layouts/header' %>	
+			    
+			    <!-- Page Heading -->
+			    <h1 class="bottomspace padded_sides_10"><%= yield(:pageheading) %></h1>     
+					
+					<!-- Page Content -->
+			    <div class="container">
+			      <div class="row">
+			        <div class="col-md-3">
+			          <div class="list-group">
+			          	<% if is_active?(root_path) %>
+			              <%= link_to "Overview", root_path, :class=>"list-group-item active" %>
+			            <% else %>
+			              <%= link_to "Overview", root_path, :class=>"list-group-item" %>
+			            <% end %>
+			            
+			            <% if is_active?(eucface_path) %>
+			              <%= link_to "EucFACE", eucface_path, :class=>"list-group-item active" %>
+			            <% else %>
+			              <%= link_to "EucFACE", eucface_path, :class=>"list-group-item" %>
+			            <% end %>
+			            
+			            <a href="#" class="list-group-item">Rainout Shelters (ROS)</a>
+			            <a href="#" class="list-group-item">Mini-ROS</a>
+			          </div>
+			        </div>
+			    	  <%= yield %>
+			      </div>
+			    </div>
+			
+			    <!-- Footer -->
+			    <%= render 'layouts/footer' %>	
+
+    </div>
+	</body>
+</html>
