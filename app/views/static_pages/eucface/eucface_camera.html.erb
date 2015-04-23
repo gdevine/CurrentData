@@ -1,10 +1,19 @@
-<% provide(:pageheading, 'EucFACE Camera') %>
+<% provide(:pageheading, 'CUP supersite snapshot ') %>
 
 <div class="col-md-9">
-  <div class="row">
+ <div class="row">
+    <div class="col-md-8 col-md-offset-1">
+      <ul>
+			  <li>Photo taken daily at 9:00am (including DST if active) * Photo upload to this site will occur in the following hours (check the image for actual date of photo) </li>
+			  <li>View from EucFACE Ring 1</li>
+			  <li>Camera settings (API): pan=-143, tilt=0.6, zoom=460</li>
+			</ul>  
+    </div>
+  </div>
+  <div class="row topspace20">
     <div class="col-md-8 col-md-offset-2">
 		  <div class="thumbnail">	
-        <%= link_to( image_tag("eucface_camera.jpg"), '/assets/eucface_camera.jpg' ) %>
+        <a href='photos/face/eucface_camera.jpg'><img src="photos/face/eucface_camera.jpg"></a>
       </div>
     </div>
   </div>
