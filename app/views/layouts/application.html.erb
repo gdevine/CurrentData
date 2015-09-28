@@ -31,15 +31,19 @@
 			            <% else %>
 			              <%= link_to "Overview", root_path, :class=>"list-group-item" %>
 			            <% end %>
+			          	
+			          	<% if is_active?(hiev_stats_path) %>
+			              <%= link_to "HIEv Stats", hiev_stats_path, :class=>"list-group-item active" %>
+			            <% else %>
+			              <%= link_to "HIEv Stats", hiev_stats_path, :class=>"list-group-item" %>
+			            <% end %>
 			            
 			            <% if is_active?(eucface_path) %>
 			              <%= link_to "EucFACE", eucface_path, :class=>"list-group-item active" %>
 			            <% else %>
 			              <%= link_to "EucFACE", eucface_path, :class=>"list-group-item" %>
 			            <% end %>
-			            
-			            <a href="#" class="list-group-item">Rainout Shelters (ROS)</a>
-			            <a href="#" class="list-group-item">Mini-ROS</a>
+
 			          </div>
 			        </div>
 			    	  <%= yield %>

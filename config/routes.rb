@@ -14,6 +14,7 @@ Rails.application.routes.draw do
   root 'static_pages#overview'
   get 'about'   => 'static_pages#about'
   get 'contact' => 'static_pages#contact'
+  get 'hiev_stats' => 'static_pages#hiev_stats'
   get 'eucface' => 'static_pages#eucface'
   get 'eucface_camera' => 'static_pages#eucface_camera'
   
