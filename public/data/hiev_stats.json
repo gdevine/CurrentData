@@ -1,0 +1,993 @@
+{
+    "hiev_stats": {
+        "date_generated": "Mon Sep 28 2015 - 08:15", 
+        "facilities": [
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 8, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "77", 
+                        "last_day_files": 0, 
+                        "name": "Admin Experiment", 
+                        "total_files": 8
+                    }
+                ], 
+                "id": "16", 
+                "last_day_files": 0, 
+                "name": "Admin Facility", 
+                "total_files": 8
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 70, 
+                        "total_files": 12592, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 38, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 36, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 26, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 2, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "20", 
+                        "last_day_files": 6, 
+                        "name": "Electronic Dendrometer Data", 
+                        "total_files": 162
+                    }, 
+                    {
+                        "id": "52", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_Initial_Model_Intercomparison", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "23", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0010_Sally_ion_exchange_strips", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "24", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0011_Uffe_Belowground_Impact", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "25", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0012_Ben_nectar_production", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "26", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0013_Ben_CO2_Secendory_chemical", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "27", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0014_Jeff_Belowground_Impact_eCO2", 
+                        "total_files": 13
+                    }, 
+                    {
+                        "id": "28", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0015_Paul_vegetative_reproduction", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "29", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0016_Markus_microbiome_pyrosequencing", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "30", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0017_Andrew_ insect_herbivore ", 
+                        "total_files": 4
+                    }, 
+                    {
+                        "id": "31", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0018_DavidE_hydrological_consequences_elevated_CO2", 
+                        "total_files": 47
+                    }, 
+                    {
+                        "id": "32", 
+                        "last_day_files": 0, 
+                        "name": "EUcFACE_P0019_ Oula_photosynthetic_biochemistry_gene_expression", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "33", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0020_DavidE_phosphorus_limit_C_sink", 
+                        "total_files": 37
+                    }, 
+                    {
+                        "id": "34", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0023_Sally_availabilty_of_soil_nutrients", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "35", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0024_Sally_understory_traits_soil_moisture_gradient", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "36", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0025_DavidD_Short_term_growth_responses_eCO2", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "37", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0026_Catriona_N&P_mineralisation_nitrification_fixation", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "38", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0027_Loic_eCO2_Influence_fluxes_of_CH4_N2O", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "39", 
+                        "last_day_files": 6, 
+                        "name": "EucFACE_P0037_Duursma_Canopy_Photos", 
+                        "total_files": 8495
+                    }, 
+                    {
+                        "id": "48", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0040", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "49", 
+                        "last_day_files": 0, 
+                        "name": "EucFACE_P0051", 
+                        "total_files": 4
+                    }, 
+                    {
+                        "id": "19", 
+                        "last_day_files": 0, 
+                        "name": "FACE_Control_Program", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "45", 
+                        "last_day_files": 0, 
+                        "name": "FACE_P0055", 
+                        "total_files": 9
+                    }, 
+                    {
+                        "id": "21", 
+                        "last_day_files": 46, 
+                        "name": "General Data", 
+                        "total_files": 3545
+                    }, 
+                    {
+                        "id": "8", 
+                        "last_day_files": 0, 
+                        "name": "Pre-treatment", 
+                        "total_files": 1
+                    }, 
+                    {
+                        "id": "22", 
+                        "last_day_files": 12, 
+                        "name": "Sap Flow Data", 
+                        "total_files": 336
+                    }, 
+                    {
+                        "id": "18", 
+                        "last_day_files": 0, 
+                        "name": "Soil CO2 Efflux", 
+                        "total_files": 38
+                    }, 
+                    {
+                        "id": "16", 
+                        "last_day_files": 0, 
+                        "name": "TEST", 
+                        "total_files": 1
+                    }, 
+                    {
+                        "id": "9", 
+                        "last_day_files": 0, 
+                        "name": "Tower 5 Wind Profile", 
+                        "total_files": 0
+                    }
+                ], 
+                "id": "7", 
+                "last_day_files": 70, 
+                "name": "EucFACE", 
+                "total_files": 12694
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 14, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 104, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 2, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "54", 
+                        "last_day_files": 0, 
+                        "name": "Growth", 
+                        "total_files": 9
+                    }, 
+                    {
+                        "id": "57", 
+                        "last_day_files": 0, 
+                        "name": "Harvest", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "56", 
+                        "last_day_files": 0, 
+                        "name": "Leaf carbon isotopic analysis (d13C)", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "61", 
+                        "last_day_files": 0, 
+                        "name": "Leaf gas exchange", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "72", 
+                        "last_day_files": 0, 
+                        "name": "MeteorologicalData", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "69", 
+                        "last_day_files": 0, 
+                        "name": "Plot design", 
+                        "total_files": 4
+                    }, 
+                    {
+                        "id": "59", 
+                        "last_day_files": 0, 
+                        "name": "Pressure Volume isotherms", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "74", 
+                        "last_day_files": 0, 
+                        "name": "Protocols", 
+                        "total_files": 8
+                    }, 
+                    {
+                        "id": "73", 
+                        "last_day_files": 0, 
+                        "name": "R analyses", 
+                        "total_files": 23
+                    }, 
+                    {
+                        "id": "53", 
+                        "last_day_files": 0, 
+                        "name": "Sap flow", 
+                        "total_files": 47
+                    }, 
+                    {
+                        "id": "55", 
+                        "last_day_files": 0, 
+                        "name": "Soil Moisture", 
+                        "total_files": 4
+                    }, 
+                    {
+                        "id": "58", 
+                        "last_day_files": 0, 
+                        "name": "Xylem vessel anatomy", 
+                        "total_files": 6
+                    }, 
+                    {
+                        "id": "60", 
+                        "last_day_files": 0, 
+                        "name": "Xylem vulnerability curves", 
+                        "total_files": 9
+                    }
+                ], 
+                "id": "14", 
+                "last_day_files": 0, 
+                "name": "HFE Common Garden", 
+                "total_files": 120
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 1, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "47", 
+                        "last_day_files": 0, 
+                        "name": "Generic Lab Data", 
+                        "total_files": 1
+                    }
+                ], 
+                "id": "12", 
+                "last_day_files": 0, 
+                "name": "HIE Laboratory", 
+                "total_files": 1
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 5, 
+                        "total_files": 140, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "40", 
+                        "last_day_files": 5, 
+                        "name": "Variable rainfall", 
+                        "total_files": 140
+                    }
+                ], 
+                "id": "10", 
+                "last_day_files": 5, 
+                "name": "Mini Rainout Shelters", 
+                "total_files": 140
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 3, 
+                        "total_files": 92, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 1, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "6", 
+                        "last_day_files": 3, 
+                        "name": "Meteorological data", 
+                        "total_files": 93
+                    }
+                ], 
+                "id": "6", 
+                "last_day_files": 3, 
+                "name": "ROS Weather Station", 
+                "total_files": 93
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 1213, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 31, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 8, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 4, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 2, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 2, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "41", 
+                        "last_day_files": 0, 
+                        "name": "Girdling", 
+                        "total_files": 5
+                    }, 
+                    {
+                        "id": "3", 
+                        "last_day_files": 0, 
+                        "name": "High CO2 and Drought", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "7", 
+                        "last_day_files": 0, 
+                        "name": "Temp & CO2 Exp", 
+                        "total_files": 5
+                    }, 
+                    {
+                        "id": "15", 
+                        "last_day_files": 0, 
+                        "name": "Temperature", 
+                        "total_files": 1248
+                    }
+                ], 
+                "id": "3", 
+                "last_day_files": 0, 
+                "name": "Whole Tree Chambers", 
+                "total_files": 1260
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 12, 
+                        "total_files": 1270, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 19, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 3, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "5", 
+                        "last_day_files": 12, 
+                        "name": "Eddy covariance flux", 
+                        "total_files": 1292
+                    }
+                ], 
+                "id": "5", 
+                "last_day_files": 12, 
+                "name": "Cumberland Plains Eddy Flux Tower (CUP)", 
+                "total_files": 1292
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 1, 
+                        "total_files": 547, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 1, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "43", 
+                        "last_day_files": 1, 
+                        "name": "S39 Glasshouse Experiment", 
+                        "total_files": 548
+                    }
+                ], 
+                "id": "11", 
+                "last_day_files": 1, 
+                "name": "Glasshouse S39", 
+                "total_files": 548
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 5, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 31, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 16, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "75", 
+                        "last_day_files": 0, 
+                        "name": "Analyses", 
+                        "total_files": 2
+                    }, 
+                    {
+                        "id": "66", 
+                        "last_day_files": 0, 
+                        "name": "DIV_DiurnalGasExchange", 
+                        "total_files": 8
+                    }, 
+                    {
+                        "id": "64", 
+                        "last_day_files": 0, 
+                        "name": "DIV_Growth", 
+                        "total_files": 12
+                    }, 
+                    {
+                        "id": "67", 
+                        "last_day_files": 0, 
+                        "name": "DIV_Harvest", 
+                        "total_files": 6
+                    }, 
+                    {
+                        "id": "65", 
+                        "last_day_files": 0, 
+                        "name": "DIV_LeafProperties", 
+                        "total_files": 8
+                    }, 
+                    {
+                        "id": "68", 
+                        "last_day_files": 0, 
+                        "name": "DIV_PlantationDesign", 
+                        "total_files": 4
+                    }, 
+                    {
+                        "id": "63", 
+                        "last_day_files": 0, 
+                        "name": "DIV_SapFlow", 
+                        "total_files": 1
+                    }, 
+                    {
+                        "id": "62", 
+                        "last_day_files": 0, 
+                        "name": "DIV_SoilMoisture", 
+                        "total_files": 11
+                    }
+                ], 
+                "id": "15", 
+                "last_day_files": 0, 
+                "name": "HFE diversity plantations", 
+                "total_files": 52
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 2, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 1, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "51", 
+                        "last_day_files": 0, 
+                        "name": "MAIN", 
+                        "total_files": 3
+                    }
+                ], 
+                "id": "13", 
+                "last_day_files": 0, 
+                "name": "Irrigation x Fertilisation Plots", 
+                "total_files": 3
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 24, 
+                        "total_files": 358, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 4, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 12, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 86, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "71", 
+                        "last_day_files": 24, 
+                        "name": "Genotypic expression in response to variable precipitation regimes in Eucalyptus camaldulensis - GXE_camaldulensis", 
+                        "total_files": 48
+                    }, 
+                    {
+                        "id": "4", 
+                        "last_day_files": 0, 
+                        "name": "Multiple Drought", 
+                        "total_files": 412
+                    }
+                ], 
+                "id": "4", 
+                "last_day_files": 24, 
+                "name": "Rainout Shelters", 
+                "total_files": 460
+            }, 
+            {
+                "Types": [
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 18, 
+                        "type": "RAW"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 19, 
+                        "type": "PROCESSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 63, 
+                        "type": "CLEANSED"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "ERROR"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "PACKAGE"
+                    }, 
+                    {
+                        "last_day_files": 0, 
+                        "total_files": 0, 
+                        "type": "UNKNOWN"
+                    }
+                ], 
+                "experiments": [
+                    {
+                        "id": "79", 
+                        "last_day_files": 0, 
+                        "name": "Cotton1-TxCxG", 
+                        "total_files": 9
+                    }, 
+                    {
+                        "id": "78", 
+                        "last_day_files": 0, 
+                        "name": "Cotton2-TxCO2xW", 
+                        "total_files": 9
+                    }, 
+                    {
+                        "id": "76", 
+                        "last_day_files": 0, 
+                        "name": "E.sidD2D", 
+                        "total_files": 6
+                    }, 
+                    {
+                        "id": "46", 
+                        "last_day_files": 0, 
+                        "name": "Euc1_Species x Temp x CO2 x Water", 
+                        "total_files": 13
+                    }, 
+                    {
+                        "id": "70", 
+                        "last_day_files": 0, 
+                        "name": "Euc2_Species x Temp x CO2 x Water", 
+                        "total_files": 7
+                    }, 
+                    {
+                        "id": "50", 
+                        "last_day_files": 0, 
+                        "name": "Intraspecific Variation in Climate Response (IntVarClim)", 
+                        "total_files": 0
+                    }, 
+                    {
+                        "id": "17", 
+                        "last_day_files": 0, 
+                        "name": "PCS- provenance climate shift", 
+                        "total_files": 8
+                    }, 
+                    {
+                        "id": "42", 
+                        "last_day_files": 0, 
+                        "name": "SIEF_Eucalpytus_Genotype_ElevatedCO2", 
+                        "total_files": 37
+                    }, 
+                    {
+                        "id": "44", 
+                        "last_day_files": 0, 
+                        "name": "Wollemi TxCO2", 
+                        "total_files": 11
+                    }
+                ], 
+                "id": "9", 
+                "last_day_files": 0, 
+                "name": "S30 Glasshouse", 
+                "total_files": 100
+            }
+        ], 
+        "last_day_files": 115, 
+        "total_files": 16771, 
+        "types": [
+            {
+                "last_day_files": 115, 
+                "total_files": 16252, 
+                "type": "RAW"
+            }, 
+            {
+                "last_day_files": 0, 
+                "total_files": 255, 
+                "type": "PROCESSED"
+            }, 
+            {
+                "last_day_files": 0, 
+                "total_files": 137, 
+                "type": "CLEANSED"
+            }, 
+            {
+                "last_day_files": 0, 
+                "total_files": 30, 
+                "type": "ERROR"
+            }, 
+            {
+                "last_day_files": 0, 
+                "total_files": 95, 
+                "type": "PACKAGE"
+            }, 
+            {
+                "last_day_files": 0, 
+                "total_files": 2, 
+                "type": "UNKNOWN"
+            }
+        ]
+    }
+}
