@@ -1,12 +1,12 @@
 {
     "hiev_stats": {
-        "date_generated": "Mon Sep 28 2015 - 08:15", 
+        "date_generated": "Mon Oct 19 2015 - 12:20", 
         "facilities": [
             {
                 "Types": [
                     {
                         "last_day_files": 0, 
-                        "total_files": 0, 
+                        "total_files": 2, 
                         "type": "RAW"
                     }, 
                     {
@@ -26,7 +26,7 @@
                     }, 
                     {
                         "last_day_files": 0, 
-                        "total_files": 0, 
+                        "total_files": 2, 
                         "type": "PACKAGE"
                     }, 
                     {
@@ -40,19 +40,19 @@
                         "id": "77", 
                         "last_day_files": 0, 
                         "name": "Admin Experiment", 
-                        "total_files": 8
+                        "total_files": 12
                     }
                 ], 
                 "id": "16", 
                 "last_day_files": 0, 
                 "name": "Admin Facility", 
-                "total_files": 8
+                "total_files": 12
             }, 
             {
                 "Types": [
                     {
-                        "last_day_files": 70, 
-                        "total_files": 12592, 
+                        "last_day_files": 0, 
+                        "total_files": 12736, 
                         "type": "RAW"
                     }, 
                     {
@@ -67,12 +67,12 @@
                     }, 
                     {
                         "last_day_files": 0, 
-                        "total_files": 26, 
+                        "total_files": 27, 
                         "type": "ERROR"
                     }, 
                     {
                         "last_day_files": 0, 
-                        "total_files": 2, 
+                        "total_files": 3, 
                         "type": "PACKAGE"
                     }, 
                     {
@@ -84,9 +84,9 @@
                 "experiments": [
                     {
                         "id": "20", 
-                        "last_day_files": 6, 
+                        "last_day_files": 0, 
                         "name": "Electronic Dendrometer Data", 
-                        "total_files": 162
+                        "total_files": 168
                     }, 
                     {
                         "id": "52", 
@@ -192,9 +192,9 @@
                     }, 
                     {
                         "id": "39", 
-                        "last_day_files": 6, 
+                        "last_day_files": 0, 
                         "name": "EucFACE_P0037_Duursma_Canopy_Photos", 
-                        "total_files": 8495
+                        "total_files": 8569
                     }, 
                     {
                         "id": "48", 
@@ -222,9 +222,9 @@
                     }, 
                     {
                         "id": "21", 
-                        "last_day_files": 46, 
+                        "last_day_files": 0, 
                         "name": "General Data", 
-                        "total_files": 3545
+                        "total_files": 3599
                     }, 
                     {
                         "id": "8", 
@@ -234,15 +234,15 @@
                     }, 
                     {
                         "id": "22", 
-                        "last_day_files": 12, 
+                        "last_day_files": 0, 
                         "name": "Sap Flow Data", 
-                        "total_files": 336
+                        "total_files": 347
                     }, 
                     {
                         "id": "18", 
                         "last_day_files": 0, 
                         "name": "Soil CO2 Efflux", 
-                        "total_files": 38
+                        "total_files": 39
                     }, 
                     {
                         "id": "16", 
@@ -258,9 +258,9 @@
                     }
                 ], 
                 "id": "7", 
-                "last_day_files": 70, 
+                "last_day_files": 0, 
                 "name": "EucFACE", 
-                "total_files": 12694
+                "total_files": 12840
             }, 
             {
                 "Types": [
@@ -429,8 +429,8 @@
             {
                 "Types": [
                     {
-                        "last_day_files": 5, 
-                        "total_files": 140, 
+                        "last_day_files": 0, 
+                        "total_files": 145, 
                         "type": "RAW"
                     }, 
                     {
@@ -462,21 +462,21 @@
                 "experiments": [
                     {
                         "id": "40", 
-                        "last_day_files": 5, 
+                        "last_day_files": 0, 
                         "name": "Variable rainfall", 
-                        "total_files": 140
+                        "total_files": 145
                     }
                 ], 
                 "id": "10", 
-                "last_day_files": 5, 
+                "last_day_files": 0, 
                 "name": "Mini Rainout Shelters", 
-                "total_files": 140
+                "total_files": 145
             }, 
             {
                 "Types": [
                     {
-                        "last_day_files": 3, 
-                        "total_files": 92, 
+                        "last_day_files": 0, 
+                        "total_files": 95, 
                         "type": "RAW"
                     }, 
                     {
@@ -508,15 +508,15 @@
                 "experiments": [
                     {
                         "id": "6", 
-                        "last_day_files": 3, 
+                        "last_day_files": 0, 
                         "name": "Meteorological data", 
-                        "total_files": 93
+                        "total_files": 96
                     }
                 ], 
                 "id": "6", 
-                "last_day_files": 3, 
+                "last_day_files": 0, 
                 "name": "ROS Weather Station", 
-                "total_files": 93
+                "total_files": 96
             }, 
             {
                 "Types": [
@@ -527,7 +527,7 @@
                     }, 
                     {
                         "last_day_files": 0, 
-                        "total_files": 31, 
+                        "total_files": 32, 
                         "type": "PROCESSED"
                     }, 
                     {
@@ -574,19 +574,19 @@
                         "id": "15", 
                         "last_day_files": 0, 
                         "name": "Temperature", 
-                        "total_files": 1248
+                        "total_files": 1249
                     }
                 ], 
                 "id": "3", 
                 "last_day_files": 0, 
                 "name": "Whole Tree Chambers", 
-                "total_files": 1260
+                "total_files": 1261
             }, 
             {
                 "Types": [
                     {
-                        "last_day_files": 12, 
-                        "total_files": 1270, 
+                        "last_day_files": 0, 
+                        "total_files": 1290, 
                         "type": "RAW"
                     }, 
                     {
@@ -618,21 +618,21 @@
                 "experiments": [
                     {
                         "id": "5", 
-                        "last_day_files": 12, 
+                        "last_day_files": 0, 
                         "name": "Eddy covariance flux", 
-                        "total_files": 1292
+                        "total_files": 1312
                     }
                 ], 
                 "id": "5", 
-                "last_day_files": 12, 
+                "last_day_files": 0, 
                 "name": "Cumberland Plains Eddy Flux Tower (CUP)", 
-                "total_files": 1292
+                "total_files": 1312
             }, 
             {
                 "Types": [
                     {
-                        "last_day_files": 1, 
-                        "total_files": 547, 
+                        "last_day_files": 0, 
+                        "total_files": 556, 
                         "type": "RAW"
                     }, 
                     {
@@ -664,15 +664,15 @@
                 "experiments": [
                     {
                         "id": "43", 
-                        "last_day_files": 1, 
+                        "last_day_files": 0, 
                         "name": "S39 Glasshouse Experiment", 
-                        "total_files": 548
+                        "total_files": 557
                     }
                 ], 
                 "id": "11", 
-                "last_day_files": 1, 
+                "last_day_files": 0, 
                 "name": "Glasshouse S39", 
-                "total_files": 548
+                "total_files": 557
             }, 
             {
                 "Types": [
@@ -811,8 +811,8 @@
             {
                 "Types": [
                     {
-                        "last_day_files": 24, 
-                        "total_files": 358, 
+                        "last_day_files": 0, 
+                        "total_files": 397, 
                         "type": "RAW"
                     }, 
                     {
@@ -844,9 +844,9 @@
                 "experiments": [
                     {
                         "id": "71", 
-                        "last_day_files": 24, 
+                        "last_day_files": 0, 
                         "name": "Genotypic expression in response to variable precipitation regimes in Eucalyptus camaldulensis - GXE_camaldulensis", 
-                        "total_files": 48
+                        "total_files": 87
                     }, 
                     {
                         "id": "4", 
@@ -856,9 +856,9 @@
                     }
                 ], 
                 "id": "4", 
-                "last_day_files": 24, 
+                "last_day_files": 0, 
                 "name": "Rainout Shelters", 
-                "total_files": 460
+                "total_files": 499
             }, 
             {
                 "Types": [
@@ -874,7 +874,7 @@
                     }, 
                     {
                         "last_day_files": 0, 
-                        "total_files": 63, 
+                        "total_files": 70, 
                         "type": "CLEANSED"
                     }, 
                     {
@@ -934,7 +934,7 @@
                         "id": "17", 
                         "last_day_files": 0, 
                         "name": "PCS- provenance climate shift", 
-                        "total_files": 8
+                        "total_files": 9
                     }, 
                     {
                         "id": "42", 
@@ -952,35 +952,35 @@
                 "id": "9", 
                 "last_day_files": 0, 
                 "name": "S30 Glasshouse", 
-                "total_files": 100
+                "total_files": 107
             }
         ], 
-        "last_day_files": 115, 
-        "total_files": 16771, 
+        "last_day_files": 0, 
+        "total_files": 17005, 
         "types": [
             {
-                "last_day_files": 115, 
-                "total_files": 16252, 
+                "last_day_files": 0, 
+                "total_files": 16474, 
                 "type": "RAW"
             }, 
             {
                 "last_day_files": 0, 
-                "total_files": 255, 
+                "total_files": 256, 
                 "type": "PROCESSED"
             }, 
             {
                 "last_day_files": 0, 
-                "total_files": 137, 
+                "total_files": 144, 
                 "type": "CLEANSED"
             }, 
             {
                 "last_day_files": 0, 
-                "total_files": 30, 
+                "total_files": 31, 
                 "type": "ERROR"
             }, 
             {
                 "last_day_files": 0, 
-                "total_files": 95, 
+                "total_files": 98, 
                 "type": "PACKAGE"
             }, 
             {

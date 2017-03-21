@@ -15,3 +15,5 @@
 //= require bootstrap
 //= require turbolinks
 //= require hiev_stats
+//= require hiev_usage
+//= require papaparse.min.js

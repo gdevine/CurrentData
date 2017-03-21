@@ -3,7 +3,6 @@ Rails.application.routes.draw do
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
   get 'users/index'
-
   get 'users/show'
 
   devise_for :users
@@ -15,9 +14,10 @@ Rails.application.routes.draw do
   get 'about'   => 'static_pages#about'
   get 'contact' => 'static_pages#contact'
   get 'hiev_stats' => 'static_pages#hiev_stats'
+  get 'hiev_usage' => 'static_pages#hiev_usage'
   get 'eucface' => 'static_pages#eucface'
   get 'eucface_camera' => 'static_pages#eucface_camera'
-  
+
   resources :users
 
   # Example of regular route:
