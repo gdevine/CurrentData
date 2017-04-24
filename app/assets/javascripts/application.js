@@ -16,4 +16,6 @@
 //= require turbolinks
 //= require hiev_stats
 //= require hiev_usage
+//= require hiestorage_stats
 //= require papaparse.min.js
+//= require d3.min.js

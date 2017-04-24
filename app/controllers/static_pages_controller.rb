@@ -20,6 +20,10 @@ class StaticPagesController < ApplicationController
     render :template => "static_pages/hiev/hiev_usage"
   end
 
+  def hiestorage_stats
+    render :template => "static_pages/hiestorage/hiestorage_stats"
+  end
+
   def eucface
     render :template => "static_pages/eucface/eucface_main"
   end

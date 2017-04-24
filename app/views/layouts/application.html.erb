@@ -44,6 +44,12 @@
 			              <%= link_to "HIEv Usage", hiev_usage_path, :class=>"list-group-item" %>
 			            <% end %>
 
+									<% if is_active?(hiestorage_stats_path) %>
+			              <%= link_to "HIE-Storage Stats", hiestorage_stats_path, :class=>"list-group-item active" %>
+			            <% else %>
+			              <%= link_to "HIE-Storage Stats", hiestorage_stats_path, :class=>"list-group-item" %>
+			            <% end %>
+
 			            <% if is_active?(eucface_path) %>
 			              <%= link_to "EucFACE", eucface_path, :class=>"list-group-item active" %>
 			            <% else %>

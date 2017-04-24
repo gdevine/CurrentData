@@ -15,6 +15,7 @@ Rails.application.routes.draw do
   get 'contact' => 'static_pages#contact'
   get 'hiev_stats' => 'static_pages#hiev_stats'
   get 'hiev_usage' => 'static_pages#hiev_usage'
+  get 'hiestorage_stats' => 'static_pages#hiestorage_stats'
   get 'eucface' => 'static_pages#eucface'
   get 'eucface_camera' => 'static_pages#eucface_camera'
 
